@@ -1,5 +1,5 @@
 # Promotionsprojekt
-Dieses Repository enthält Appendices und Skripte des Promotionsprojekts "Die Verarbeitung verbaler und visueller Hinweisreize bei der Antizipation von Turn-Taking"
+Dieses Repository enthält Videodateien sowie die statistischen Skripte des Promotionsprojekts: "Die Verarbeitung verbaler und visueller Hinweisreize bei der Antizipation von Turn-Taking"
 
 Das Projekt ist in drei Teile aufgeteilt: 
 1) Methodenvergleich bei der Untersuchung von Antizipation von Turn-Taking bei Erwachsenen
