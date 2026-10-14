@@ -1,9 +1,12 @@
 # Promotionsprojekt
-Dieses Repository enthält Videodateien sowie die statistischen Skripte des Promotionsprojekts: "Die Verarbeitung verbaler und visueller Hinweisreize bei der Antizipation von Turn-Taking"
+Dieses Repository enthält Videodateien sowie die Skripte für die statistische Auswertung der drei Studien des Promotionsprojekts: "Die Verarbeitung verbaler und visueller Hinweisreize bei der Antizipation von Turn-Taking -- Ein Methoden- und Gruppenvergleich"
 
-Das Projekt ist in drei Teile aufgeteilt: 
-1) Methodenvergleich bei der Untersuchung von Antizipation von Turn-Taking bei Erwachsenen
-   Dieser Teil vergleicht die Verwendung von visuellen und verbalen Hinweisreizen bei der Antizipation in unterschiedlichen Aufgaben. 
-   
-3) Vergleich der Antizipation von Turn-Taking bei einsprachigen Kindern und Erwachsenen
-4) Vergleich 
+1) "Dialog1_Liste3":  Beispielvideo, das die visuellen und auditiven Stimuli von Dialog 1 in der Ausführung von Liste 3 enthält.
+2) : PythonSkript in Jupyter Notebook der Datenverarbeitung zur Vorbereitung für die statistische Auswertung der Daten
+3) : R-Skript zur deskriptiven und inferenzstatistischen Analyse des Reaktionszeitexperiments (Teil A, Experiment 1)
+4) : R-Skript zur deskriptiven und inferenzstatistischen Analyse des Visual-World-Paradigmas der Erwachsenen (Teil A, Experiment 2)
+5) : R-Skript zur deskriptiven Analyse des Vergleichs zwischen ein- und mehrsprachigen Kindern (Teil C)
+6) : R-Skript zur inferenzstatistischen Analyse des Vergleichs zwischen einsprachigen Kindern und Erwachsene (Teil B)
+7) : R-Skript zur deskriptiven Analyse des Vergleichs zwischen ein- und mehrsprachigen Kindern (Teil C)
+8) : R-Skript zur inferenzstatistischen Analyse des Vergleichs zwischen einsprachigen Kindern und Erwachsene (Teil B)
+
