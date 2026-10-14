@@ -5,8 +5,8 @@ Dieses Repository enthält Videodateien sowie die Skripte für die statistische 
 2) : PythonSkript in Jupyter Notebook der Datenverarbeitung zur Vorbereitung für die statistische Auswertung der Daten
 3) : R-Skript zur deskriptiven und inferenzstatistischen Analyse des Reaktionszeitexperiments (Teil A, Experiment 1)
 4) : R-Skript zur deskriptiven und inferenzstatistischen Analyse des Visual-World-Paradigmas der Erwachsenen (Teil A, Experiment 2)
-5) : R-Skript zur deskriptiven Analyse des Vergleichs zwischen ein- und mehrsprachigen Kindern (Teil C)
+5) : R-Skript zur deskriptiven Analyse des Vergleichs zwischen einsprachigen Kindern und Erwachsene (Teil B)
 6) : R-Skript zur inferenzstatistischen Analyse des Vergleichs zwischen einsprachigen Kindern und Erwachsene (Teil B)
 7) : R-Skript zur deskriptiven Analyse des Vergleichs zwischen ein- und mehrsprachigen Kindern (Teil C)
-8) : R-Skript zur inferenzstatistischen Analyse des Vergleichs zwischen einsprachigen Kindern und Erwachsene (Teil B)
-
+8) : R-Skript zur inferenzstatistischen Analyse des Vergleichs zwischen ein- und mehrsprachigen Kindern (Teil C)
+9) : Korrelationsanalyse der ein- und mehrsprachigen Kinder (Teil C)
