@@ -9,4 +9,4 @@ Dieses Repository enthält Videodateien sowie die Skripte für die statistische 
 6) VWP_Vergleich_Erwachsen+Kind: R-Skript der deskriptiven und inferenzstatistischen Analyse des Vergleichs zwischen einsprachigen Kindern und Erwachsene (Teil B)
 7) VWP_Desk_Auswertung_Kinder: R-Skript zur deskriptiven Analyse des Vergleichs zwischen ein- und mehrsprachigen Kindern (Teil C)
 8) VWP_Inferenz_Auswertung_Kinder: R-Skript zur inferenzstatistischen Analyse des Vergleichs zwischen ein- und mehrsprachigen Kindern (Teil C)
-9) Korr_Kinder: Korrelationsanalyse der ein- und mehrsprachigen Kinder (Teil C)
+9) Korrelationsanalyse_Kinder: Korrelationsanalyse der ein- und mehrsprachigen Kinder (Teil C)
